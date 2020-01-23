@@ -1,0 +1,3 @@
+Bundle-Name: liferay-osgi-basics
+Bundle-SymbolicName: com.chberndt.liferay.osgi.basics
+Bundle-Version: 1.0.0
